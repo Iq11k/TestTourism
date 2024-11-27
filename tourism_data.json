@@ -1,7 +1,7 @@
 {
     "message" : "succses",
     "data" :
-    {
+    [{
         "Place_Id": 1,
         "Place_Name": "Monumen Nasional",
         "Description": "Monumen Nasional atau yang populer disingkat dengan Monas atau Tugu Monas adalah monumen peringatan setinggi 132 meter (433 kaki) yang didirikan untuk mengenang perlawanan dan perjuangan rakyat Indonesia untuk merebut kemerdekaan dari pemerintahan kolonial Hindia Belanda. Pembangunan monumen ini dimulai pada tanggal 17 Agustus 1961 di bawah perintah presiden Soekarno dan dibuka untuk umum pada tanggal 12 Juli 1975. Tugu ini dimahkotai lidah api yang dilapisi lembaran emas yang melambangkan semangat perjuangan yang menyala-nyala. Monumen Nasional terletak tepat di tengah Lapangan Medan Merdeka, Jakarta Pusat.",
@@ -7429,5 +7429,5 @@
         "Unnamed: 12": 437,
         "Place_City": "Gereja Perawan Maria Tak Berdosa Surabaya Surabaya",
         "image_url": "https://www.itrip.id/wp-content/uploads/2019/05/Gereja-Perawan-Maria-Tak-Berdosa.jpg"
-    }
+    }]
 }
