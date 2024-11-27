@@ -1,4 +1,6 @@
-[
+{
+    "message" : "succses",
+    "data" :
     {
         "Place_Id": 1,
         "Place_Name": "Monumen Nasional",
@@ -7428,4 +7430,4 @@
         "Place_City": "Gereja Perawan Maria Tak Berdosa Surabaya Surabaya",
         "image_url": "https://www.itrip.id/wp-content/uploads/2019/05/Gereja-Perawan-Maria-Tak-Berdosa.jpg"
     }
-]
+}
